@@ -28,7 +28,7 @@ Além disto é bom ter um editor para trabalhar com o código como [VSCode](http
 $ git clone https://github.com/LucasJunio/infoback
 
 # Acesse a pasta do projeto no seu terminal/cmd
-$ cd infofront
+$ cd infoback
 
 # Instale as dependências
 $ npm install
