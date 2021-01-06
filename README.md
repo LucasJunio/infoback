@@ -16,7 +16,7 @@
 ### Pré-requisitos
 
 Antes de começar, você vai precisar ter instalado em sua máquina as seguintes ferramentas:
-[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/). 
+[Git](https://git-scm.com), [Node.js](https://nodejs.org/en/), [MySQL](https://www.mysql.com/).
 Além disto é bom ter um editor para trabalhar com o código como [VSCode](https://code.visualstudio.com/)
 
 
@@ -32,6 +32,8 @@ $ cd infoback
 
 # Instale as dependências
 $ npm install
+
+# Crie um banco de dados MySQL com o nome: info_db
 
 # Execute o App
 $ npm start
