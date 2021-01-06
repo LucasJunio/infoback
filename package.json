@@ -23,5 +23,13 @@
     "mysql2": "^2.2.5",
     "sequelize": "^6.3.5",
     "sequelize-paper-trail": "^3.0.1"
-  }
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LucasJunio/infoback.git"
+  },
+  "bugs": {
+    "url": "https://github.com/LucasJunio/infoback/issues"
+  },
+  "homepage": "https://github.com/LucasJunio/infoback#readme"
 }
