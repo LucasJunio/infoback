@@ -39,7 +39,7 @@ $ npm install
 $ npm start
 
 
-# A aplicação será aberta na porta:3000 - acesse http://localhost:3001
+# A aplicação será aberta na porta:3001 - acesse http://localhost:3001
 
 ```
 
